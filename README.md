@@ -3,9 +3,9 @@ Machine Learning Project
 
 To set-up CI/CD pipeline in heroku we need 3 information
 
-1. HEROKU_EMAIL = ramiharshil2598@gmail.com
-2. HEROKU_API_KEY = 8cc99171-ca7e-4baf-bc30-87d4f95917f2
-3. HEROKU_APP_NAME = machine-learning-regression
+1. HEROKU_EMAIL = 
+2. HEROKU_API_KEY = 
+3. HEROKU_APP_NAME = 
 
 BUILD DOCKER IMAGE
 ```
